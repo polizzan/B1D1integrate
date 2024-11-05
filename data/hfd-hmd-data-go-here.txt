@@ -1,0 +1,4 @@
+All data downloaded on 04 November 2024.
+
+Cohort death rates: "c_death_rates.zip", downloaded from https://www.mortality.org/Data/ZippedDataFiles
+
