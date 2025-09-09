@@ -1,3 +1,7 @@
+[![doi](https://img.shields.io/badge/10.17605/OSF.IO/AF685/TE592-blue)][doi]
+
+[doi]: https://doi.org/10.17605/OSF.IO/AF685
+
 # Fertility, birth, reproduction: Connecting formal demographic frameworks
 
 ## Purpose of This Repository
